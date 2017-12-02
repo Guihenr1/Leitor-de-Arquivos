@@ -1,0 +1,10 @@
+C:\Users\guilh\Desktop\VB\C# e Scratch\GITPC\LeitorArquivos\obj\Debug\LeitorArquivos.csprojResolveAssemblyReference.cache
+C:\Users\guilh\Desktop\VB\C# e Scratch\GITPC\LeitorArquivos\obj\Debug\LeitorArquivos.Form1.resources
+C:\Users\guilh\Desktop\VB\C# e Scratch\GITPC\LeitorArquivos\obj\Debug\LeitorArquivos.Properties.Resources.resources
+C:\Users\guilh\Desktop\VB\C# e Scratch\GITPC\LeitorArquivos\obj\Debug\LeitorArquivos.csproj.GenerateResource.Cache
+C:\Users\guilh\Desktop\VB\C# e Scratch\GITPC\LeitorArquivos\obj\Debug\LeitorArquivos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\VB\C# e Scratch\GITPC\LeitorArquivos\bin\Debug\LeitorArquivos.exe.config
+C:\Users\guilh\Desktop\VB\C# e Scratch\GITPC\LeitorArquivos\bin\Debug\LeitorArquivos.exe
+C:\Users\guilh\Desktop\VB\C# e Scratch\GITPC\LeitorArquivos\bin\Debug\LeitorArquivos.pdb
+C:\Users\guilh\Desktop\VB\C# e Scratch\GITPC\LeitorArquivos\obj\Debug\LeitorArquivos.exe
+C:\Users\guilh\Desktop\VB\C# e Scratch\GITPC\LeitorArquivos\obj\Debug\LeitorArquivos.pdb
